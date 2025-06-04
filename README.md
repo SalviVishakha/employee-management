@@ -37,9 +37,14 @@ This is a React-based Employee Management System application. It allows users to
 
 Screenshots:
    1.Registration page :
+
+   
    ![image](https://github.com/user-attachments/assets/9da0ad55-16c8-40e4-859b-5880e7ceccba)
 
    2.Login page:
+
+
+   
    ![image](https://github.com/user-attachments/assets/d019167f-9ff9-4fa1-a497-00b9f25ec218)
 
    3.Employee Dasboard:
