@@ -51,6 +51,8 @@ Screenshots:
    ![image](https://github.com/user-attachments/assets/e9fed2ed-e689-4ab8-b756-928f7a6ee0cf)
 
    4.Adding employee details:
+
+   
    ![image](https://github.com/user-attachments/assets/bd30fd73-c560-4722-bfc9-936358fa960c)
 
    5.After adding the details:
